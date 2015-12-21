@@ -1,0 +1,23 @@
+{
+  "name": "xmlsoccer",
+  "version": "0.0.1",
+  "description": "Promise based interface to XMLSoccer.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litek/xmlsoccer.git"
+  },
+  "author": "Ketil Albertsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/litek/xmlsoccer/issues"
+  },
+  "homepage": "https://github.com/litek/xmlsoccer#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "soap": "^0.11.1"
+  }
+}
